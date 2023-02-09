@@ -1,6 +1,10 @@
-- 👋 Hi, I'm Raj Keshwani
+<h1 align='center'>
+  Hi there 👋 I'm Raj Keshwani 👨‍💻
+</h1>
+
 - 👀 I'm interested in learning new technologies
 - 📫 Reach me through email id (raj.ignoumca@gmail.com) OR skype id(mrraj2985)
+- 📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/rajkeshwani)**
 
 ## ⚙ Languages and Tools:
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
